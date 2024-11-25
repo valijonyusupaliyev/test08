@@ -1,0 +1,73 @@
+.jjj{
+background-color: rgb(154, 117, 189);
+text-align: center;
+border-radius: 10px;
+border: 2px solid red;
+}
+.ula{
+background-color: yellow;
+
+}
+.hhh{
+color: red;
+
+}
+.bbb{
+color: green;
+
+}
+.yellow{
+background-color: yellow;
+text-align: center;
+}
+.lll{
+background-color: yellow;
+text-align: center;
+height: 20px;
+}
+.kkk{
+color: green;
+
+
+}
+.nnn{
+width: 1200px;
+height: 50px;
+}
+.aaa{
+background-color: blue;
+width: 300px;
+height: 30px;
+}
+.zzz{
+color: white;
+
+}
+.qqq{
+background-color: green;
+color: white;
+width: 150px;
+}
+.ccc{
+ border-collapse:collapse ;
+text-align: center;
+height: 60px;
+}
+.ooo{
+background-color: blue;
+color: white;
+width: 1200px;
+}
+.rrr{
+background-color: red;
+color: white;
+
+}
+.ppp{
+background-color: black;
+color: white;
+}
+
+h3{
+    margin: 0;
+}
